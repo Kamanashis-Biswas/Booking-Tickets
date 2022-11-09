@@ -1,0 +1,4 @@
+#Wed Nov 09 17:24:36 BDT 2022
+base.0=/home/kamanashis/Files/AndroidStudioProject/Flutter/Booking-Ticket-master/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
